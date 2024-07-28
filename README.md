@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import asecdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asecdf@esm/index.mjs';
+import asecdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asecdf@v0.0.2-esm/index.mjs';
 ```
 
 #### asecdf( x )
@@ -98,7 +98,7 @@ v = asecdf( 0.5 );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import asecdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asecdf@esm/index.mjs';
+import asecdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asecdf@v0.0.2-esm/index.mjs';
 
 var x = linspace( 1.1, 5.1, 100 );
 
