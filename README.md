@@ -223,6 +223,7 @@ int main( void ) {
 
 -   <span class="package-name">[`@stdlib/math-base/special/asec`][@stdlib/math/base/special/asec]</span><span class="delimiter">: </span><span class="description">compute the inverse (arc) secant of a number.</span>
 -   <span class="package-name">[`@stdlib/math-base/special/asech`][@stdlib/math/base/special/asech]</span><span class="delimiter">: </span><span class="description">compute the hyperbolic arcsecant of a number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/acosdf`][@stdlib/math/base/special/acosdf]</span><span class="delimiter">: </span><span class="description">compute the arccosine (in degrees) of a single-precision floating-point number.</span>
 
 </section>
 
@@ -307,6 +308,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [@stdlib/math/base/special/asec]: https://github.com/stdlib-js/math-base-special-asec
 
 [@stdlib/math/base/special/asech]: https://github.com/stdlib-js/math-base-special-asech
+
+[@stdlib/math/base/special/acosdf]: https://github.com/stdlib-js/math-base-special-acosdf
 
 <!-- </related-links> -->
 
